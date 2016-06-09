@@ -1,0 +1,11 @@
+<resources>
+    <string-array name="idiomas">
+        <item>Español</item>
+        <item>Inglés</item>
+        <item>Francés</item>
+        <item>Italiano</item>
+    </string-array>
+    <string name="app_name">cliente</string>
+    <string name="enter_text1">Introduce la IP</string>
+    <string name="enter_text2">Introduce el puerto</string>
+</resources>
